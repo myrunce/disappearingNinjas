@@ -1,0 +1,18 @@
+#wrapper{
+    width: 700px;
+    height: 600px
+}
+.row1, .row2{
+    width: 700px;
+    height: 157px;
+}
+.row1{
+    width:auto;
+}
+.row2{
+    width: auto;
+}
+img.ninja{
+    margin: 20px;
+    border: solid black 5px;
+}
